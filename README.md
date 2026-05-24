@@ -1,26 +1,26 @@
-# 📊 Basic Data Exploration and Cleaning using Pandas
+# Basic Data Exploration and Cleaning using Pandas
 
-## 📌 Objective
+## Objective
 Learn Python basics and perform basic data exploration and cleaning using Pandas.
 
 
-## 📖 Problem Statement
+## Problem Statement
 Perform data analysis and cleaning on a shopping dataset using Python Pandas. The workflow includes loading data, exploring structure, handling missing values, removing duplicates, creating new features, and saving the cleaned dataset.
 
 
-## 📂 Dataset
+## Dataset
 - Source: Kaggle Shopping Dataset  
 - Link: https://www.kaggle.com/datasets/anvitkumar/shopping-dataset  
 - File used: `jeans.csv`
 
 
-## ⚙️ Tools Used
-- Python 🐍
-- Pandas 📊
-- Jupyter Notebook 📒
+## Tools Used
+- Python 
+- Pandas 
+- Jupyter Notebook 
 
 
-## 🚀 Steps Performed
+## Steps Performed
 
 ### 1. Load Dataset
 Loaded CSV file using pandas.
@@ -60,14 +60,14 @@ Created new column:total_amount = final_price × quantity
 Saved final dataset as: cleaned_shopping_data.csv
 
 
-## 📊 Output
+## Output
 - Clean dataset generated successfully
 - Data exploration completed
 - Missing values handled
 - Feature engineering done
 
 
-## 🧠 Key Learnings
+## Key Learnings
 - Importance of data cleaning before analysis
 - Handling missing values using Pandas
 - Converting data types correctly
